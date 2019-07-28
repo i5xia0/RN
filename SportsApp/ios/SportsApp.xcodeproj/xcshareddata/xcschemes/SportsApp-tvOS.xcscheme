@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "SportsApp-tvOS.app"
-               BlueprintName = "SportsApp-tvOS"
-               ReferencedContainer = "container:SportsApp.xcodeproj">
+               BuildableName = "SportsAPP-tvOS.app"
+               BlueprintName = "SportsAPP-tvOS"
+               ReferencedContainer = "container:SportsAPP.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "SportsApp-tvOSTests.xctest"
-               BlueprintName = "SportsApp-tvOSTests"
-               ReferencedContainer = "container:SportsApp.xcodeproj">
+               BuildableName = "SportsAPP-tvOSTests.xctest"
+               BlueprintName = "SportsAPP-tvOSTests"
+               ReferencedContainer = "container:SportsAPP.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "SportsApp-tvOSTests.xctest"
-               BlueprintName = "SportsApp-tvOSTests"
-               ReferencedContainer = "container:SportsApp.xcodeproj">
+               BuildableName = "SportsAPP-tvOSTests.xctest"
+               BlueprintName = "SportsAPP-tvOSTests"
+               ReferencedContainer = "container:SportsAPP.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "SportsApp-tvOS.app"
-            BlueprintName = "SportsApp-tvOS"
-            ReferencedContainer = "container:SportsApp.xcodeproj">
+            BuildableName = "SportsAPP-tvOS.app"
+            BlueprintName = "SportsAPP-tvOS"
+            ReferencedContainer = "container:SportsAPP.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "SportsApp-tvOS.app"
-            BlueprintName = "SportsApp-tvOS"
-            ReferencedContainer = "container:SportsApp.xcodeproj">
+            BuildableName = "SportsAPP-tvOS.app"
+            BlueprintName = "SportsAPP-tvOS"
+            ReferencedContainer = "container:SportsAPP.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "SportsApp-tvOS.app"
-            BlueprintName = "SportsApp-tvOS"
-            ReferencedContainer = "container:SportsApp.xcodeproj">
+            BuildableName = "SportsAPP-tvOS.app"
+            BlueprintName = "SportsAPP-tvOS"
+            ReferencedContainer = "container:SportsAPP.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

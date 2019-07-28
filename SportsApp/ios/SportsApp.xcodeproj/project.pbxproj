@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* SportsAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportsAppTests.m */; };
+		00E356F31AD99517003FC87E /* SportsAPPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportsAPPTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1D6D5EB22D62A3E6641BA2E0 /* libPods-SportsAPP-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8098460EA6FF2BA7A2FA7B02 /* libPods-SportsAPP-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* SportsAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportsAppTests.m */; };
-		4244E17FF0EEC96216A68F39 /* libPods-SportsAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1735F916DD6CE80BA37E0C32 /* libPods-SportsAppTests.a */; };
-		70E3A37C56C06E03C90DC087 /* libPods-SportsApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1315DF05D52D61182D8A31F0 /* libPods-SportsApp.a */; };
-		9CF47AC5772010761C0D8AA1 /* libPods-SportsApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A72FBA0AF7E248C4B811DB86 /* libPods-SportsApp-tvOSTests.a */; };
-		9D931BA98F0054B4ADDF92BA /* libPods-SportsApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A577A9B33ED9AEFEC20FDA3F /* libPods-SportsApp-tvOS.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* SportsAPPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportsAPPTests.m */; };
+		3FF15AD8214AC8B403A25887 /* libPods-SportsAPP.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 774B94D732BCB10BA6E117DB /* libPods-SportsAPP.a */; };
+		4C7AC82C03B85027C85086AE /* libPods-SportsAPPTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C87344E0E71477D2E577B7CA /* libPods-SportsAPPTests.a */; };
+		F05F460CA9A12C559AB2677A /* libPods-SportsAPP-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C4606F0A3882432976CE0651 /* libPods-SportsAPP-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = SportsApp;
+			remoteInfo = SportsAPP;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "SportsApp-tvOS";
+			remoteInfo = "SportsAPP-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* SportsAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* SportsAPPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsAPPTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* SportsAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SportsAppTests.m; sourceTree = "<group>"; };
-		1315DF05D52D61182D8A31F0 /* libPods-SportsApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* SportsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SportsApp/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SportsApp/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* SportsAPPTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SportsAPPTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* SportsAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SportsAPP/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SportsAPP/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SportsApp/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SportsApp/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SportsApp/main.m; sourceTree = "<group>"; };
-		1735F916DD6CE80BA37E0C32 /* libPods-SportsAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1EBAA2EB8BA5C2E9E17EC623 /* Pods-SportsApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SportsApp-tvOSTests/Pods-SportsApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		2277427401BFFC17E41734B8 /* Pods-SportsAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAppTests.debug.xcconfig"; path = "Target Support Files/Pods-SportsAppTests/Pods-SportsAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2A79623919707A37EC1D7CB1 /* Pods-SportsAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAppTests.release.xcconfig"; path = "Target Support Files/Pods-SportsAppTests/Pods-SportsAppTests.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* SportsApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SportsApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* SportsApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SportsApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3EC6DC83296D39E35D179B1E /* Pods-SportsApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SportsApp-tvOS/Pods-SportsApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		95FF01D2FC3AA07EFEC511B2 /* Pods-SportsApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp.release.xcconfig"; path = "Target Support Files/Pods-SportsApp/Pods-SportsApp.release.xcconfig"; sourceTree = "<group>"; };
-		9B8609710E01DCB95E006645 /* Pods-SportsApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SportsApp-tvOSTests/Pods-SportsApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		A577A9B33ED9AEFEC20FDA3F /* libPods-SportsApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A72FBA0AF7E248C4B811DB86 /* libPods-SportsApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9F3C6ECAC75ED93F10A8E7F /* Pods-SportsApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp.debug.xcconfig"; path = "Target Support Files/Pods-SportsApp/Pods-SportsApp.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SportsAPP/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SportsAPP/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SportsAPP/main.m; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* SportsAPP-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SportsAPP-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* SportsAPP-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SportsAPP-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D398756CE6863406A99C197 /* Pods-SportsAPP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP.debug.xcconfig"; path = "Target Support Files/Pods-SportsAPP/Pods-SportsAPP.debug.xcconfig"; sourceTree = "<group>"; };
+		774B94D732BCB10BA6E117DB /* libPods-SportsAPP.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsAPP.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8098460EA6FF2BA7A2FA7B02 /* libPods-SportsAPP-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsAPP-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		80C288DD68B21D06E94B8ED6 /* Pods-SportsAPP-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SportsAPP-tvOSTests/Pods-SportsAPP-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		93FC923C43C6B0C4C921A8E7 /* Pods-SportsAPP-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SportsAPP-tvOSTests/Pods-SportsAPP-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		A8C1AB717CFEF2C486644A6B /* Pods-SportsAPPTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPPTests.debug.xcconfig"; path = "Target Support Files/Pods-SportsAPPTests/Pods-SportsAPPTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C045FA3824A87357A0BC0EC8 /* Pods-SportsAPP-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SportsAPP-tvOS/Pods-SportsAPP-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		C4606F0A3882432976CE0651 /* libPods-SportsAPP-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsAPP-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C87344E0E71477D2E577B7CA /* libPods-SportsAPPTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsAPPTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1C0C60D53E0D62468C83D52 /* Pods-SportsAPP-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SportsAPP-tvOS/Pods-SportsAPP-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		D6C62B0D790B2212F376E193 /* Pods-SportsAPP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPP.release.xcconfig"; path = "Target Support Files/Pods-SportsAPP/Pods-SportsAPP.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		EE5D62B227648D3D20248E37 /* Pods-SportsApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SportsApp-tvOS/Pods-SportsApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		F5240FDBBF1408E7EE9D2547 /* Pods-SportsAPPTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsAPPTests.release.xcconfig"; path = "Target Support Files/Pods-SportsAPPTests/Pods-SportsAPPTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4244E17FF0EEC96216A68F39 /* libPods-SportsAppTests.a in Frameworks */,
+				4C7AC82C03B85027C85086AE /* libPods-SportsAPPTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70E3A37C56C06E03C90DC087 /* libPods-SportsApp.a in Frameworks */,
+				3FF15AD8214AC8B403A25887 /* libPods-SportsAPP.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D931BA98F0054B4ADDF92BA /* libPods-SportsApp-tvOS.a in Frameworks */,
+				F05F460CA9A12C559AB2677A /* libPods-SportsAPP-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9CF47AC5772010761C0D8AA1 /* libPods-SportsApp-tvOSTests.a in Frameworks */,
+				1D6D5EB22D62A3E6641BA2E0 /* libPods-SportsAPP-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* SportsAppTests */ = {
+		00E356EF1AD99517003FC87E /* SportsAPPTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* SportsAppTests.m */,
+				00E356F21AD99517003FC87E /* SportsAPPTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = SportsAppTests;
+			path = SportsAPPTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* SportsApp */ = {
+		13B07FAE1A68108700A75B9A /* SportsAPP */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = SportsApp;
+			name = SportsAPP;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,28 +141,12 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				1315DF05D52D61182D8A31F0 /* libPods-SportsApp.a */,
-				A577A9B33ED9AEFEC20FDA3F /* libPods-SportsApp-tvOS.a */,
-				A72FBA0AF7E248C4B811DB86 /* libPods-SportsApp-tvOSTests.a */,
-				1735F916DD6CE80BA37E0C32 /* libPods-SportsAppTests.a */,
+				774B94D732BCB10BA6E117DB /* libPods-SportsAPP.a */,
+				C4606F0A3882432976CE0651 /* libPods-SportsAPP-tvOS.a */,
+				8098460EA6FF2BA7A2FA7B02 /* libPods-SportsAPP-tvOSTests.a */,
+				C87344E0E71477D2E577B7CA /* libPods-SportsAPPTests.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		353D7EF3FE40A0CA8D8E9F51 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D9F3C6ECAC75ED93F10A8E7F /* Pods-SportsApp.debug.xcconfig */,
-				95FF01D2FC3AA07EFEC511B2 /* Pods-SportsApp.release.xcconfig */,
-				EE5D62B227648D3D20248E37 /* Pods-SportsApp-tvOS.debug.xcconfig */,
-				3EC6DC83296D39E35D179B1E /* Pods-SportsApp-tvOS.release.xcconfig */,
-				9B8609710E01DCB95E006645 /* Pods-SportsApp-tvOSTests.debug.xcconfig */,
-				1EBAA2EB8BA5C2E9E17EC623 /* Pods-SportsApp-tvOSTests.release.xcconfig */,
-				2277427401BFFC17E41734B8 /* Pods-SportsAppTests.debug.xcconfig */,
-				2A79623919707A37EC1D7CB1 /* Pods-SportsAppTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -175,12 +159,12 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* SportsApp */,
+				13B07FAE1A68108700A75B9A /* SportsAPP */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* SportsAppTests */,
+				00E356EF1AD99517003FC87E /* SportsAPPTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				353D7EF3FE40A0CA8D8E9F51 /* Pods */,
+				EA9ECD4448B90CF6043C4957 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -190,22 +174,38 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* SportsApp.app */,
-				00E356EE1AD99517003FC87E /* SportsAppTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* SportsApp-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* SportsApp-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* SportsAPP.app */,
+				00E356EE1AD99517003FC87E /* SportsAPPTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* SportsAPP-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* SportsAPP-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		EA9ECD4448B90CF6043C4957 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4D398756CE6863406A99C197 /* Pods-SportsAPP.debug.xcconfig */,
+				D6C62B0D790B2212F376E193 /* Pods-SportsAPP.release.xcconfig */,
+				C045FA3824A87357A0BC0EC8 /* Pods-SportsAPP-tvOS.debug.xcconfig */,
+				D1C0C60D53E0D62468C83D52 /* Pods-SportsAPP-tvOS.release.xcconfig */,
+				80C288DD68B21D06E94B8ED6 /* Pods-SportsAPP-tvOSTests.debug.xcconfig */,
+				93FC923C43C6B0C4C921A8E7 /* Pods-SportsAPP-tvOSTests.release.xcconfig */,
+				A8C1AB717CFEF2C486644A6B /* Pods-SportsAPPTests.debug.xcconfig */,
+				F5240FDBBF1408E7EE9D2547 /* Pods-SportsAPPTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* SportsAppTests */ = {
+		00E356ED1AD99517003FC87E /* SportsAPPTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsAppTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsAPPTests" */;
 			buildPhases = (
-				DBAFD1FB03D80625933A53BB /* [CP] Check Pods Manifest.lock */,
+				DFA5EEB02978D82971095906 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
@@ -215,16 +215,16 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = SportsAppTests;
-			productName = SportsAppTests;
-			productReference = 00E356EE1AD99517003FC87E /* SportsAppTests.xctest */;
+			name = SportsAPPTests;
+			productName = SportsAPPTests;
+			productReference = 00E356EE1AD99517003FC87E /* SportsAPPTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* SportsApp */ = {
+		13B07F861A680F5B00A75B9A /* SportsAPP */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsApp" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsAPP" */;
 			buildPhases = (
-				03F2E84A8B0EF8D1D05C07DB /* [CP] Check Pods Manifest.lock */,
+				D10A19D7537C5E39D2F98938 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
@@ -235,16 +235,16 @@
 			);
 			dependencies = (
 			);
-			name = SportsApp;
-			productName = SportsApp;
-			productReference = 13B07F961A680F5B00A75B9A /* SportsApp.app */;
+			name = SportsAPP;
+			productName = SportsAPP;
+			productReference = 13B07F961A680F5B00A75B9A /* SportsAPP.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* SportsApp-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* SportsAPP-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsApp-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsAPP-tvOS" */;
 			buildPhases = (
-				15F46AD2F545999162CA40F3 /* [CP] Check Pods Manifest.lock */,
+				210E4D02B1BB8E252A209400 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -255,16 +255,16 @@
 			);
 			dependencies = (
 			);
-			name = "SportsApp-tvOS";
-			productName = "SportsApp-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* SportsApp-tvOS.app */;
+			name = "SportsAPP-tvOS";
+			productName = "SportsAPP-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* SportsAPP-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* SportsApp-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* SportsAPP-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsApp-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsAPP-tvOSTests" */;
 			buildPhases = (
-				2D3B84B635FEAF971C58F663 /* [CP] Check Pods Manifest.lock */,
+				562ADD4207599272FF158140 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "SportsApp-tvOSTests";
-			productName = "SportsApp-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* SportsApp-tvOSTests.xctest */;
+			name = "SportsAPP-tvOSTests";
+			productName = "SportsAPP-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* SportsAPP-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -303,7 +303,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsApp" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsAPP" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -316,10 +316,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* SportsApp */,
-				00E356ED1AD99517003FC87E /* SportsAppTests */,
-				2D02E47A1E0B4A5D006451C7 /* SportsApp-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* SportsApp-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* SportsAPP */,
+				00E356ED1AD99517003FC87E /* SportsAPPTests */,
+				2D02E47A1E0B4A5D006451C7 /* SportsAPP-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* SportsAPP-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -373,7 +373,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		03F2E84A8B0EF8D1D05C07DB /* [CP] Check Pods Manifest.lock */ = {
+		210E4D02B1BB8E252A209400 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -388,29 +388,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsApp-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		15F46AD2F545999162CA40F3 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsApp-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SportsAPP-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -431,7 +409,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		2D3B84B635FEAF971C58F663 /* [CP] Check Pods Manifest.lock */ = {
+		562ADD4207599272FF158140 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -446,14 +424,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsApp-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SportsAPP-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DBAFD1FB03D80625933A53BB /* [CP] Check Pods Manifest.lock */ = {
+		D10A19D7537C5E39D2F98938 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -468,7 +446,29 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsAppTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SportsAPP-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DFA5EEB02978D82971095906 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SportsAPPTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,7 +520,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* SportsAppTests.m in Sources */,
+				00E356F31AD99517003FC87E /* SportsAPPTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,7 +546,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* SportsAppTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* SportsAPPTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,12 +555,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* SportsApp */;
+			target = 13B07F861A680F5B00A75B9A /* SportsAPP */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* SportsApp-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* SportsAPP-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -572,7 +572,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = SportsApp;
+			path = SportsAPP;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -580,14 +580,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2277427401BFFC17E41734B8 /* Pods-SportsAppTests.debug.xcconfig */;
+			baseConfigurationReference = A8C1AB717CFEF2C486644A6B /* Pods-SportsAPPTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = SportsAppTests/Info.plist;
+				INFOPLIST_FILE = SportsAPPTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -597,17 +597,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsApp.app/SportsApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsAPP.app/SportsAPP";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A79623919707A37EC1D7CB1 /* Pods-SportsAppTests.release.xcconfig */;
+			baseConfigurationReference = F5240FDBBF1408E7EE9D2547 /* Pods-SportsAPPTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = SportsAppTests/Info.plist;
+				INFOPLIST_FILE = SportsAPPTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -617,18 +617,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsApp.app/SportsApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsAPP.app/SportsAPP";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D9F3C6ECAC75ED93F10A8E7F /* Pods-SportsApp.debug.xcconfig */;
+			baseConfigurationReference = 4D398756CE6863406A99C197 /* Pods-SportsAPP.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = SportsApp/Info.plist;
+				INFOPLIST_FILE = SportsAPP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -636,18 +636,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportsApp;
+				PRODUCT_NAME = SportsAPP;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 95FF01D2FC3AA07EFEC511B2 /* Pods-SportsApp.release.xcconfig */;
+			baseConfigurationReference = D6C62B0D790B2212F376E193 /* Pods-SportsAPP.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = SportsApp/Info.plist;
+				INFOPLIST_FILE = SportsAPP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -655,14 +655,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportsApp;
+				PRODUCT_NAME = SportsAPP;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EE5D62B227648D3D20248E37 /* Pods-SportsApp-tvOS.debug.xcconfig */;
+			baseConfigurationReference = C045FA3824A87357A0BC0EC8 /* Pods-SportsAPP-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -673,14 +673,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportsApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "SportsAPP-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsAPP-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -690,7 +690,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3EC6DC83296D39E35D179B1E /* Pods-SportsApp-tvOS.release.xcconfig */;
+			baseConfigurationReference = D1C0C60D53E0D62468C83D52 /* Pods-SportsAPP-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -701,14 +701,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportsApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "SportsAPP-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsAPP-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -718,7 +718,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9B8609710E01DCB95E006645 /* Pods-SportsApp-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 80C288DD68B21D06E94B8ED6 /* Pods-SportsAPP-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -728,24 +728,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportsApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "SportsAPP-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsAPP-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsApp-tvOS.app/SportsApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsAPP-tvOS.app/SportsAPP-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1EBAA2EB8BA5C2E9E17EC623 /* Pods-SportsApp-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 93FC923C43C6B0C4C921A8E7 /* Pods-SportsAPP-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -755,17 +755,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportsApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "SportsAPP-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.SportsAPP-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsApp-tvOS.app/SportsApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsAPP-tvOS.app/SportsAPP-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -872,7 +872,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsAppTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsAPPTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -881,7 +881,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsApp" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsAPP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -890,7 +890,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsApp-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsAPP-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -899,7 +899,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsApp-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportsAPP-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -908,7 +908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsApp" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsAPP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

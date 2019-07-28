@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'SportsApp' do
-  # Pods for SportsApp
+target 'SportsAPP' do
+  # Pods for SportsAPP
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
@@ -28,7 +28,9 @@ target 'SportsApp' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'SportsAppTests' do
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  target 'SportsAPPTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -36,10 +38,10 @@ target 'SportsApp' do
   use_native_modules!
 end
 
-target 'SportsApp-tvOS' do
-  # Pods for SportsApp-tvOS
+target 'SportsAPP-tvOS' do
+  # Pods for SportsAPP-tvOS
 
-  target 'SportsApp-tvOSTests' do
+  target 'SportsAPP-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
