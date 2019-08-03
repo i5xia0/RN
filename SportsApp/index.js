@@ -3,8 +3,9 @@
  */
 
 import {AppRegistry} from 'react-native';
-import App from './App';
+// import App from './App';
+import AppNavigators from './app/navigator/AppNavigators';
 import {name as appName} from './app.json';
-import AppNavigation from './navigation/AppNavigation';
 
-AppRegistry.registerComponent(appName, () => AppNavigation);
+console.disableYellowBox = true
+AppRegistry.registerComponent(appName, () => AppNavigators);
